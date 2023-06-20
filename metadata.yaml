@@ -1,0 +1,29 @@
+_repo: Escape-from-east-Tennessee-to-the-federal-lines-b-The-history-given-as-nearly-as-possible-by-__70992
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ragan, R. A.
+    gutenberg_agent_id: '56032'
+    url: http://www.gutenberg.org/2009/agents/56032
+description: ''
+gutenberg_issued: '2023-06-16'
+identifiers:
+  gutenberg: '70992'
+language: en
+pgterms:marc904: https://archive.org/details/escapefromeastte00raga/page/n73/mode/2up
+pgterms:marc905: 20230430104941ragan
+pgterms:marc906: '1910'
+pgterms:marc907: US
+production_note: Bob Taylor, Carla Foust and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited States :$bJames H. Dony, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Escape from east Tennessee to the federal lines : $b The history, given as
+  nearly as possible, by Captain R. A. Ragan of his individual experiences during
+  the war of the rebellion from 1861 to 1864'
+url: http://www.gutenberg.org/ebooks/70992
