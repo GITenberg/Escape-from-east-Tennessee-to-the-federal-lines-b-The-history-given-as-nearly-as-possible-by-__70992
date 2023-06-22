@@ -1,11 +1,16 @@
 _repo: Escape-from-east-Tennessee-to-the-federal-lines-b-The-history-given-as-nearly-as-possible-by-__70992
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70992-h/images/back_cover.jpg
 creator:
   author:
     agent_name: Ragan, R. A.
     gutenberg_agent_id: '56032'
     url: http://www.gutenberg.org/2009/agents/56032
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70992#Escape-from-east-Tennessee-to-the-federal-lines-b-The-history-given-as-nearly-as-possible-by-_
 gutenberg_issued: '2023-06-16'
 identifiers:
   gutenberg: '70992'
